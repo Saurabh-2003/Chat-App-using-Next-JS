@@ -125,7 +125,7 @@ export const EditProfileModal = () => {
                                             <CldUploadButton
                                                 options={{ maxFiles: 1 }}
                                                 onUpload={handleUpload}
-                                                uploadPreset="lehwukid"
+                                                uploadPreset="kp9zokyc"
                                             >
                                                 <Image alt="image" src={form.getValues("imageUrl") || "/images/placeholder.jpg"} width="80" height="80" className="rounded-full"/>
                                             </CldUploadButton>
